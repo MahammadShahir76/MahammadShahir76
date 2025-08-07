@@ -14,6 +14,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
  📫 Connect with me:
-- Portfolio: [My Portfolio]([https://your-portfolio-link.com](https://mahammadshahir.github.io/Resume-web-page/))
+- Portfolio: [My Portfolio](https://your-portfolio-link.com](https://mahammadshahir.github.io/Resume-web-page/))
 - LinkedIn: [My LinkedIn](www.linkedin.com/in/shahir-mahammad-05307b256)
 - Email: shahirmahammad76@gmail.com
