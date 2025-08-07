@@ -16,4 +16,4 @@
  📫 Connect with me:
 - Portfolio: [My Portfolio]([https://your-portfolio-link.com](https://mahammadshahir.github.io/Resume-web-page/))
 - LinkedIn: [My LinkedIn](www.linkedin.com/in/shahir-mahammad-05307b256)
-- Email: mahammadshahir76@gmail.com
+- Email: shahirmahammad76@gmail.com
